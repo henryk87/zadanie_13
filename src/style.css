@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-first: #abcdef;
+    --color-hovering: #fedcba;
+    --color-secondary: #123450;
+    --color-pink: #ffffaa;
+    --color-pagebackgrnd: #135790;
+    --color-barbie: #aaaaff;
+}
